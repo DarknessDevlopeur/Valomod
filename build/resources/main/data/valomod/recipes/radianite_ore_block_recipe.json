@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "valomod:radianite"
+    },
+    "1": {
+      "item": "valomod:radianite"
+    },
+    "2": {
+      "item": "valomod:radianite"
+    },
+    "3": {
+      "item": "valomod:radianite"
+    },
+    "4": {
+      "item": "valomod:radianite"
+    },
+    "5": {
+      "item": "valomod:radianite"
+    },
+    "6": {
+      "item": "valomod:radianite"
+    },
+    "7": {
+      "item": "valomod:radianite"
+    },
+    "8": {
+      "item": "valomod:radianite"
+    }
+  },
+  "result": {
+    "item": "valomod:radianite_block",
+    "count": 1
+  }
+}

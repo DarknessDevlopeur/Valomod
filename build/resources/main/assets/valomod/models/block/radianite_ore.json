@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "valomod:blocks/radianite_ore",
+    "particle": "valomod:blocks/radianite_ore"
+  },
+  "render_type": "solid"
+}

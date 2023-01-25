@@ -1,0 +1,11 @@
+{
+  "walksound": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "valomod:2023-01-24-12-59-44",
+        "stream": false
+      }
+    ]
+  }
+}

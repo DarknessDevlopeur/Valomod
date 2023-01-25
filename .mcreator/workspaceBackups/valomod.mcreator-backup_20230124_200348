@@ -1,0 +1,123 @@
+{
+  "mod_elements": [
+    {
+      "name": "Sage",
+      "type": "livingentity",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sage"
+    },
+    {
+      "name": "Jett",
+      "type": "livingentity",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "jett"
+    },
+    {
+      "name": "Reyna",
+      "type": "livingentity",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "reyna"
+    },
+    {
+      "name": "Radianite",
+      "type": "item",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "radianite"
+    },
+    {
+      "name": "RadianiteOre",
+      "type": "block",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "radianite_ore"
+    },
+    {
+      "name": "RadianiteBlock",
+      "type": "block",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "radianite_block"
+    },
+    {
+      "name": "RadianiteOreBlockRecipe",
+      "type": "recipe",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "radianite_ore_block_recipe"
+    },
+    {
+      "name": "RadianiteBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "radianite_block_ore_recipe"
+    },
+    {
+      "name": "RadianiteOreSmelting",
+      "type": "recipe",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "radianite_ore_smelting"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [
+    {
+      "name": "walksound",
+      "files": [
+        "2023-01-24-12-59-44"
+      ],
+      "category": "neutral",
+      "subtitle": ""
+    }
+  ],
+  "language_map": {
+    "en_us": {
+      "subtitles.walksound": "",
+      "entity.valomod.jett": "Jett",
+      "item.valomod.reyna_spawn_egg": "Reyna Spawn Egg",
+      "entity.valomod.reyna": "Reyna",
+      "block.valomod.radianite_ore": "Radianite Ore",
+      "block.valomod.radianite_block": "Block of Radianite",
+      "entity.valomod.sage": "Sage",
+      "item.valomod.jett_spawn_egg": "Jett Spawn Egg",
+      "item.valomod.sage_spawn_egg": "Sage Spawn Egg",
+      "item.valomod.radianite": "Radianite"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "valomod",
+    "modName": "Valomod",
+    "version": "1.0.0",
+    "author": "lecoo, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.19.2",
+    "modElementsPackage": "net.mcreator.valomod",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202200348217
+}

@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "valomod:radianite_block"
+    }
+  ],
+  "result": {
+    "item": "valomod:radianite",
+    "count": 9
+  }
+}
